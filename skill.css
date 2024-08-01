@@ -134,7 +134,7 @@ to {
     -moz-animation: Animate-CSS 5s;
     -o-animation: Animate-CSS 5s;
     border-radius:20px;
-    width: 70%;
+    width: 50%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -144,13 +144,13 @@ to {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 50%}
 }@-webkit-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 50%}
 }@-moz-keyframes Animate-CSS {
     from {
     width: 10px;
@@ -169,7 +169,7 @@ to {
     -webkit-animation: Animate-Python 5s;
     -moz-animation: Animate-Python 5s;
     -o-animation: Animate-Python 5s;
-    width: 80%;
+    width: 85%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -179,13 +179,13 @@ to {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 85%}
 }@-webkit-keyframes Animate-Python {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 85%}
 }@-moz-keyframes Animate-Python {
     from {
     width: 10px;
@@ -204,7 +204,7 @@ to {
     -moz-animation: Animate-JS 4s;
     -o-animation: Animate-JS 4s;
     border-radius:20px;
-    width: 65%;
+    width: 60%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -214,13 +214,13 @@ to {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 60%}
 }@-webkit-keyframes Animate-JS {
     from {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 60%}
 }@-moz-keyframes Animate-JS {
     from {
     width: 10px;
@@ -241,7 +241,7 @@ to {
     -moz-animation: Animate-C 4s;
     -o-animation: Animate-C 4s;
     border-radius:20px;
-    width: 80%;
+    width: 85%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -251,13 +251,13 @@ to {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 85%}
 }@-webkit-keyframes Animate-C {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 85%}
 }@-moz-keyframes Animate-C {
     from {
     width: 10px;
@@ -276,7 +276,7 @@ to {
     -moz-animation: Animate-Cplus 4s;
     -o-animation: Animate-Cplus 4s;
     border-radius:20px;
-    width: 85%;
+    width: 80%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -286,13 +286,13 @@ to {
     width: 10px;
 }
 to {
-    width: 85%}
+    width: 80%}
 }@-webkit-keyframes Animate-Cplus {
     from {
     width: 10px;
 }
 to {
-    width: 85%}
+    width: 80%}
 }@-moz-keyframes Animate-Cplus {
     from {
     width: 10px;
@@ -311,7 +311,7 @@ to {
     -moz-animation: Animate-SQL 4s;
     -o-animation: Animate-SQL 4s;
     border-radius:20px;
-    width: 80%;
+    width: 50%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -321,13 +321,13 @@ to {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 50%}
 }@-webkit-keyframes Animate-SQL {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 50%}
 }@-moz-keyframes Animate-SQL {
     from {
     width: 10px;
